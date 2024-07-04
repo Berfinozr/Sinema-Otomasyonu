@@ -20,7 +20,7 @@ _-Html_
 _-MySql_
 
 ### Yönetici Paneli
-![Ekran görüntüsü 2024-07-04 164514](https://github.com/Berfinozr/Sinema-Otomasyonu/assets/129957376/e93da860-ebc6-4141-9976-73d8b823f917)
+![Ekran görüntüsü 2024-07-04 213204](https://github.com/Berfinozr/Sinema-Otomasyonu/assets/129957376/5e464132-3267-48a2-a4a9-e5019acad615)
 ![Ekran görüntüsü 2024-07-04 164608](https://github.com/Berfinozr/Sinema-Otomasyonu/assets/129957376/4ae1c336-2f8c-4b7a-a160-a4bbeecbf38b)
 ![Ekran görüntüsü 2024-07-04 164748](https://github.com/Berfinozr/Sinema-Otomasyonu/assets/129957376/13c6798d-431b-4554-8315-95965da73b10)
 ![Ekran görüntüsü 2024-07-04 184925](https://github.com/Berfinozr/Sinema-Otomasyonu/assets/129957376/15e51e65-0728-4113-969c-757a0c5169d4)
@@ -30,5 +30,5 @@ _-MySql_
 ![Ekran görüntüsü 2024-07-04 213033](https://github.com/Berfinozr/Sinema-Otomasyonu/assets/129957376/cf164917-0b2a-4a7a-a863-e983c09857be)
 ![Ekran görüntüsü 2024-07-04 213122](https://github.com/Berfinozr/Sinema-Otomasyonu/assets/129957376/35a14afa-00e1-4215-8ffb-728d7519f929)
 ![Ekran görüntüsü 2024-07-04 213150](https://github.com/Berfinozr/Sinema-Otomasyonu/assets/129957376/95331dc7-a2d9-43e3-a517-8f5921d45f64)
-![Ekran görüntüsü 2024-07-04 213204](https://github.com/Berfinozr/Sinema-Otomasyonu/assets/129957376/5e464132-3267-48a2-a4a9-e5019acad615)
+
 
